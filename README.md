@@ -134,7 +134,7 @@ In this notebook, is submitted a SKLearn linear regression model to predict Yen 
 The data was split for train/test using 2018-2019 for testing and the rest for training
 
 <br/>
- <div align="center"> <b> <u> Comparing Predicted vs Test/True Values for Topm 2- records  </u> </b> </div>
+ <div align="center"> <b> <u> Comparing Predicted vs Test/True Values for Top 20 Records  </u> </b> </div>
 <br/>
 
 ![Predicted vs Actual](Images/Graphs/predictionvstest.jpg)
@@ -144,13 +144,13 @@ The data was split for train/test using 2018-2019 for testing and the rest for t
 ### Performance
 Out of sample:
 
-* Out of sample Mean Squared Error is: 0.17262635470120388
-* Out of sampleRoot Mean Squared Error is: 0.4154832784856737
+* Out of sample, Mean Squared Error is: 0.17262635470120388
+* Out of sample, Root Mean Squared Error is: 0.4154832784856737
 ---
 In sample:
 
-* In-sample  Mean Squared Error is: 0.35565249959422596
-* In-sample Root Mean Squared Error is: 0.5963660785073426
+* In-sample,  Mean Squared Error is: 0.35565249959422596
+* In-sample, Root Mean Squared Error is: 0.5963660785073426
 --- 
 ### Conclusion
 
