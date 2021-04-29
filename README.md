@@ -8,8 +8,8 @@ The financial departments of large companies often deal with foreign currency tr
 
 The following tasks have been completed:
 
-[x]  Time Series Forecasting
-[x]  Linear Regression Modeling
+- [x]  Time Series Forecasting
+- [x]  Linear Regression Modeling
 
 ## Submission Files 
 
